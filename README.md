@@ -1,16 +1,19 @@
-# todo_en_uno
+# NavajaSuizaApp – Todo lo que necesitás, en un solo lugar
 
-A new Flutter project.
+**NavajaSuizaApp** es una aplicación multifuncional diseñada para ayudarte a organizar y optimizar cada aspecto de tu vida diaria. Como una verdadera navaja suiza digital, combina múltiples herramientas en una sola interfaz intuitiva y personalizable, ideal para quienes buscan practicidad, control y eficiencia desde el celular.
 
-## Getting Started
+## Funciones principales:
 
-This project is a starting point for a Flutter application.
+- 📊 **Progreso en el gimnasio**: registrá tus entrenamientos, cargas y repeticiones. Visualizá tu evolución semana a semana.
+- 📋 **Tareas y organización**: planificá tu día, agregá recordatorios y llevá el control de tus actividades personales, escolares o laborales.
+- 🍽️ **Alimentación y macros**: controlá tu dieta con seguimiento de macronutrientes, medidas caseras y una base de datos editable.
+- 💸 **Finanzas personales**: registrá tus ingresos, gastos y metas de ahorro. Mantené tus cuentas claras y ordenadas.
+- 📚 **Seguimiento de lectura**: marcá los libros que leés, anotá tu progreso y guardá notas clave.
+- 🔥 **Racha NoFap**: monitoreá tus avances, motivación diaria y objetivos personales.
+- 😴 **Diario de sueño**: registrá tus horarios de descanso, calidad del sueño y factores que lo afectan.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**NavajaSuizaApp** está pensada para ser tan versátil como vos. Ligera, sin funciones innecesarias, y con un diseño limpio que prioriza lo importante: tu crecimiento personal.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 **Disponible pronto para Android y iOS.**
